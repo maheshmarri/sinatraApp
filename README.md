@@ -10,9 +10,10 @@
 
 		The approach I selected to use AWS for deploying the application for simplicity, repeatable deployments 
 	for the infrastructure as code and deploy the application quickly. I have used the AWS Cloud formation template 
-	for infrastructure/configuration as a code for creating the VM and configuring the security and open the required
+	for infrastructure/configuration as a code for creating the VM , configuring security and open the required
 	ports for the application to access. Shell script also written as code to deploy the application and required 
-	ruby and bundler packages ,application will be running automatically after successful completion of the cloudformaiton stack creation.
+	ruby and bundler packages to be installed as a unit ,application will be running automatically after successful completion of the 
+	cloudformaiton stack creation.
 
 ## How to execute the cloudformation template:
 
