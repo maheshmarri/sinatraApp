@@ -25,7 +25,7 @@
 	* By default template configured to use the ubuntu base image for creating VM and also chooses default VPC and subnet settings for deploygin this image. 
 	* Choose "keypair" created initially as prereq from the dropdown, ## as the template list available keypairs 
 	* SSHLocation configured to allow the 22/80 to be accessable from anywhere . ##The application will be running on 80 port.
-	* ![Screenshot](parameters.png) 
+![Screenshot](parameters.png) 
 	
 	* Click Next ,##for this we we dont need to configure much of the tags or IAM profiles to access other resources.
 	* Click Create
