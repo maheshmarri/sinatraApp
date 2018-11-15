@@ -1,11 +1,5 @@
 # sinatraApp
 
-## Initial learning
-
-	I would like to admit, I have never worked on ruby on rails application before, 
-	but test gave me opportunity to learn before I start working on the solution to understand 
-	how rails application works.
-
 ## Approach
 
 		The approach I selected to use AWS for deploying the application for simplicity, repeatable deployments 
